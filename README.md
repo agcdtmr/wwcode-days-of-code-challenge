@@ -1,4 +1,4 @@
-# Welcome to the Women Who Code Days of Code Challenge 2024
+# Welcome to the Women Who Code Days of Code Challenge
 
 This initiative is fueled by my steadfast commitment to enhancing our coding journey—making it more accessible, enjoyable, and impactful for our community. Recognizing the diverse needs and aspirations of participants, this tracker stands as a versatile companion, fostering a more organized and uplifting space.
 
