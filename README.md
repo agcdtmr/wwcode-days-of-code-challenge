@@ -47,6 +47,9 @@ P.S. A heartfelt shoutout to the powerhouse women behind WWCode—thank you for 
 
 # 3. Pseudocode
 
+
+# Practice test-driven development (TDD) with unit tests
+
 # 4. Solve/Simplify
 
 # 5. Refactor or Look Back
@@ -60,7 +63,7 @@ P.S. A heartfelt shoutout to the powerhouse women behind WWCode—thank you for 
 # - Documentation: README file with instructions on how to use your code
 # - Use version control systems like Git to track changes to your code and collaborate with others
 
-# 6. Test the code
+# 6. Retest the code
 
 # Optional: Document errors you encountered
 
