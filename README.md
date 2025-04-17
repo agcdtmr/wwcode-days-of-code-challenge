@@ -33,7 +33,7 @@ P.S. A heartfelt shoutout to the powerhouse women behind WWCode—thank you for 
 # 1. Understand the Problem
 # Inputs:
 # Outputs:
-# Restrictions:
+# Constraints/Restrictions:
 
 # 2. Examples
 
